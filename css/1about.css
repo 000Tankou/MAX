@@ -1,0 +1,23 @@
+.video{
+    /* float:right; */
+    text-align: center;
+    margin:100px;
+}
+
+.social{
+    height: 50px;
+    width: 750x; 
+    display: inline-block;
+    margin-left: 650px;
+    margin-top: 15px;
+}
+i{
+    color:white;
+    margin-left: 25px;
+}
+footer{
+    background-color: black;
+    height: 105px;
+    margin-top:600px;
+}
+
