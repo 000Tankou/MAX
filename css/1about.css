@@ -1,14 +1,14 @@
 .video{
     /* float:right; */
     text-align: center;
-    margin:100px;
+    margin-top: 200px;
 }
 
 .social{
     height: 50px;
     width: 750x; 
     display: inline-block;
-    margin-left: 650px;
+    margin-left: 775px;
     margin-top: 15px;
 }
 i{
@@ -21,3 +21,23 @@ footer{
     margin-top:600px;
 }
 
+main{
+    height:200px;
+
+}
+footer{
+    background-color: black;
+    height: 98px;
+}
+.words{
+    margin: 10px;
+    text-align: center;
+    margin-top: 50px;
+    color:white
+    font-size: 55px;
+    
+}
+h1{
+    margin: 10px;
+    text-align: center;
+}
